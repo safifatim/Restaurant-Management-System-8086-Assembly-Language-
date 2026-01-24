@@ -4,12 +4,12 @@
 ![Env](https://img.shields.io/badge/Environment-DOSBox-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-16--bit%20Real%20Mode-lightgrey)
 
-An interactive, console-based management system developed in **8086 Assembly Language**. [cite_start]This project demonstrates low-level software engineering, direct hardware interaction, and manual memory management within the **DOS environment**[cite: 1, 3].
+An interactive, console-based management system developed in **8086 Assembly Language**. [cite_start]This project demonstrates low-level software engineering, direct hardware interaction, and manual memory management within the **DOS environment**.
 
 ---
 
 ## 🚀 Overview
-[cite_start]The system provides a complete workflow for restaurant operations, including category navigation, item selection, and automated billing[cite: 1, 4]. [cite_start]It is built to showcase the practical implementation of assembly concepts like macros, procedures, and interrupt-level I/O[cite: 1, 2].
+The system provides a complete workflow for restaurant operations, including category navigation, item selection, and automated billing.It is built to showcase the practical implementation of assembly concepts like macros, procedures, and interrupt-level I/O[cite: 1, 2].
 
 
 
@@ -41,13 +41,14 @@ The system manages 5 distinct categories with 8 items each.
     ```
 
 ## ⚠️ Limitations & Future Scope
-* [cite_start]**Current:** Runs in 16-bit Real Mode only; no external file storage[cite: 8].
-* [cite_start]**Future:** Planned support for item-wise billing, discount functionality, and graphical interfaces[cite: 9].
+* **Current:** Runs in 16-bit Real Mode only; no external file storage[cite: 8].
+* **Future:** Planned support for item-wise billing, discount functionality, and graphical interfaces[cite: 9].
 
 ## 🤝 Contributors
-* **[Your Name]** - System Architecture & Core Logic
-* **@[Friend's Name]** - [Contribution Area]
-* **@[Friend's Name]** - [Contribution Area]
+* **@Fatima**
+* **@AdibaGul**
+* **@SanamAmirbux** 
+* **@SidraAmirbux** 
 
 ---
 *Developed as a final project for the Computer Organization and Assembly Language (COAL) course.*
