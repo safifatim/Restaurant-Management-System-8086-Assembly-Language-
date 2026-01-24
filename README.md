@@ -1,7 +1,7 @@
 # 🍽️ Restaurant Management System (8086 Assembly)
 
 ![Language](https://img.shields.io/badge/Language-8086%20Assembly-orange)
-![Env](https://img.shields.io/badge/Environment-DOSBox-blue)
+![Env](https://img.shields.io/badge/Environment-emu8086-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-16--bit%20Real%20Mode-lightgrey)
 
 An interactive, console-based management system developed in **8086 Assembly Language**.This project demonstrates low-level software engineering, direct hardware interaction, and manual memory management within the **DOS environment**.
