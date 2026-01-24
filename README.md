@@ -4,12 +4,12 @@
 ![Env](https://img.shields.io/badge/Environment-DOSBox-blue)
 ![Architecture](https://img.shields.io/badge/Architecture-16--bit%20Real%20Mode-lightgrey)
 
-An interactive, console-based management system developed in **8086 Assembly Language**. [cite_start]This project demonstrates low-level software engineering, direct hardware interaction, and manual memory management within the **DOS environment**.
+An interactive, console-based management system developed in **8086 Assembly Language**.This project demonstrates low-level software engineering, direct hardware interaction, and manual memory management within the **DOS environment**.
 
 ---
 
 ## 🚀 Overview
-The system provides a complete workflow for restaurant operations, including category navigation, item selection, and automated billing.It is built to showcase the practical implementation of assembly concepts like macros, procedures, and interrupt-level I/O[cite: 1, 2].
+The system provides a complete workflow for restaurant operations, including category navigation, item selection, and automated billing.It is built to showcase the practical implementation of assembly concepts like macros, procedures, and interrupt-level I/O.
 
 
 
@@ -26,11 +26,11 @@ The system manages 5 distinct categories with 8 items each.
 
 | Category | Sample Items | Price Range (PKR) |
 | :--- | :--- | :--- |
-| **Breakfast** | Paratha, Omelette, Halwa | [cite_start]10 - 30 [cite: 8, 9] |
-| **Lunch** | Chicken Biryani, Kabab, Salad | [cite_start]20 - 180 [cite: 9, 10] |
-| **Dinner** | Makhni Handi, Beef Curry, BBQ Rice | [cite_start]30 - 170 [cite: 10, 11] |
-| **Snacks** | Shawarma, Burgers, French Fries | [cite_start]10 - 130 [cite: 11, 12] |
-| **Drinks** | Mineral Water, Juices, Lacchi | [cite_start]15 - 100 [cite: 12, 13] |
+| **Breakfast** | Paratha, Omelette, Halwa | 10 - 30  |
+| **Lunch** | Chicken Biryani, Kabab, Salad | 20 - 180  |
+| **Dinner** | Makhni Handi, Beef Curry, BBQ Rice | 30 - 170 |
+| **Snacks** | Shawarma, Burgers, French Fries | 10 - 130 |
+| **Drinks** | Mineral Water, Juices, Lacchi | 15 - 100  |
 
 ## 💻 How to Run
 1.  Install **DOSBox**.
@@ -45,10 +45,10 @@ The system manages 5 distinct categories with 8 items each.
 * **Future:** Planned support for item-wise billing, discount functionality, and graphical interfaces[cite: 9].
 
 ## 🤝 Contributors
-* **@Fatima**
-* **@AdibaGul**
-* **@SanamAmirbux** 
-* **@SidraAmirbux** 
+* **Fatima**
+* **AdibaGul**
+* **SanamAmirbux** 
+* **SidraAmirbux** 
 
 ---
 *Developed as a final project for the Computer Organization and Assembly Language (COAL) course.*
